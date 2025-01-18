@@ -1,1 +1,1 @@
-# javascrip_proyecto_coloresRGB
+# javascript_proyecto_coloresRGB
